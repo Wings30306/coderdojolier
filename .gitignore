@@ -1,2 +1,4 @@
 flaskenv
 .vscode 
+__pycache__
+
